@@ -2,6 +2,8 @@
 
 The official code implementation of the paper "ReCode: Updating Code API Knowledge with Reinforcement Learning".
 
+![](./assets/reward_and_acc.png)
+
 ## Environment Installation
 
 We recommend using conda to deploy the environment:
