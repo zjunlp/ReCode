@@ -48,7 +48,7 @@ pip install -r requirements.txt
 
 ## 📚Dataset Preparation
 
-We have uploaded our collected data to Hugging Face, you can download it [here](). Each piece of data contains the following six fields:
+We have uploaded our collected data to Hugging Face, you can download it [here](https://huggingface.co/datasets/zjunlp/ReCode-Train-Data). Each piece of data contains the following six fields:
 
 - **dependency** specifies the library;
 - **new_version** indicates the required version of the library;
